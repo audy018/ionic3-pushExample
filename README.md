@@ -1,3 +1,9 @@
+## Example of push notification design in ionic 3
+
+Tested on android
+
+
+
 This is a starter template for [Ionic](http://ionicframework.com/docs/) projects.
 
 ## How to use this template
